@@ -1,4 +1,4 @@
-### FriendFinder
+## FriendFinder
 * Program to add friends to a database through a survey and find the best match.
 ## General Information:
 * Developer - Karen Brant,
